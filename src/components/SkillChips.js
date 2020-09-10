@@ -40,7 +40,7 @@ export default function SkillChips() {
                     Novice skills
                 </Typography>
                     <div className={classes.root}> 
-                        <Chip avatar={<Avatar src={require('./static/kep.jpg')}/>} variant="outlined" label="C" color="secondary"/>
+                        <Chip avatar={<Avatar src={require('./static/c.png')}/>} variant="outlined" label="C" color="secondary"/>
                         <Chip avatar={<Avatar src={require('./static/cpp.png')}/>} variant="outlined" label="C++"/>
                         <Chip avatar={<Avatar src={require('./static/java.png')}/>} variant="outlined" label="Java" color="primary"/>
                         <Chip avatar={<Avatar src={require('./static/python.png')}/>} variant="outlined" label="Python" color="secondary"/>
