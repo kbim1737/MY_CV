@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d6b9d7a93ff7a8e5793d915378061fda",
+    "revision": "9639b81ae4bd0455bdceb7b8ab903c5f",
     "url": "/MY_CV/index.html"
   },
   {
-    "revision": "fb499744c6658cf59c1c",
+    "revision": "b86a66cd5aa4de1c7892",
     "url": "/MY_CV/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "60d727248a6778b22d94",
-    "url": "/MY_CV/static/js/2.f4a7f79a.chunk.js"
+    "revision": "b97f691efc446068b5ea",
+    "url": "/MY_CV/static/js/2.7fec6c51.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/MY_CV/static/js/2.f4a7f79a.chunk.js.LICENSE.txt"
+    "url": "/MY_CV/static/js/2.7fec6c51.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fb499744c6658cf59c1c",
-    "url": "/MY_CV/static/js/main.4b434789.chunk.js"
+    "revision": "b86a66cd5aa4de1c7892",
+    "url": "/MY_CV/static/js/main.6bbfe87b.chunk.js"
   },
   {
     "revision": "e443e61859b51a8220a8",
@@ -26,6 +26,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "25f10eb3ab1daa8be7156cabf7bd765d",
     "url": "/MY_CV/static/media/cambridge.25f10eb3.png"
+  },
+  {
+    "revision": "afdc89faf4aa6fc1af19f43fe561f12a",
+    "url": "/MY_CV/static/media/cpp.afdc89fa.png"
+  },
+  {
+    "revision": "ba745d15846392bb706bb069b989b3a8",
+    "url": "/MY_CV/static/media/css.ba745d15.png"
   },
   {
     "revision": "31b4d1af4e60ef84f31fdb68907e19f1",
@@ -42,6 +50,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "863a68720166f2b7a908d10814f1b9fd",
     "url": "/MY_CV/static/media/kolcsey.863a6872.jpg"
+  },
+  {
+    "revision": "ebf185dbe0e75a688f66e86dbbb21c44",
+    "url": "/MY_CV/static/media/matlab.ebf185db.png"
+  },
+  {
+    "revision": "7247ed4398bb98c44cecd83901b181bd",
+    "url": "/MY_CV/static/media/mongo.7247ed43.png"
+  },
+  {
+    "revision": "085738674acc26e44137662460b70b39",
+    "url": "/MY_CV/static/media/node.08573867.jpg"
+  },
+  {
+    "revision": "cba0b89d2bf2d96a1ed26edb5849f804",
+    "url": "/MY_CV/static/media/react.cba0b89d.png"
   },
   {
     "revision": "b20211a838dc686921deedd9516cf561",
