@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/MY_CV/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/MY_CV/static/js/main.4b434789.chunk.js",
+    "main.js.map": "/MY_CV/static/js/main.4b434789.chunk.js.map",
+    "runtime-main.js": "/MY_CV/static/js/runtime-main.bf3dbb77.js",
+    "runtime-main.js.map": "/MY_CV/static/js/runtime-main.bf3dbb77.js.map",
+    "static/js/2.f4a7f79a.chunk.js": "/MY_CV/static/js/2.f4a7f79a.chunk.js",
+    "static/js/2.f4a7f79a.chunk.js.map": "/MY_CV/static/js/2.f4a7f79a.chunk.js.map",
+    "index.html": "/MY_CV/index.html",
+    "precache-manifest.f3fc4d28e9522af4fbeb5448aa8206ef.js": "/MY_CV/precache-manifest.f3fc4d28e9522af4fbeb5448aa8206ef.js",
+    "service-worker.js": "/MY_CV/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/MY_CV/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.f4a7f79a.chunk.js.LICENSE.txt": "/MY_CV/static/js/2.f4a7f79a.chunk.js.LICENSE.txt",
+    "static/media/cambridge.png": "/MY_CV/static/media/cambridge.25f10eb3.png",
+    "static/media/ecdl.jpg": "/MY_CV/static/media/ecdl.31b4d1af.jpg",
+    "static/media/eng.jpg": "/MY_CV/static/media/eng.244681e7.jpg",
+    "static/media/kep.jpg": "/MY_CV/static/media/kep.fe65f751.jpg",
+    "static/media/kolcsey.jpg": "/MY_CV/static/media/kolcsey.863a6872.jpg",
+    "static/media/ubb.png": "/MY_CV/static/media/ubb.b20211a8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf3dbb77.js",
+    "static/js/2.f4a7f79a.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.4b434789.chunk.js"
+  ]
+}
