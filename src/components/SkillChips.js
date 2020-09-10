@@ -27,12 +27,12 @@ export default function SkillChips() {
                         Advanced skills
                         </Typography>
                     <div className={classes.root}>    
-                        <Chip avatar={<Avatar>JS</Avatar>} variant="outlined" label="JavaScript" color="primary"/>
-                        <Chip avatar={<Avatar>R</Avatar>} variant="outlined" label="React.js" />
-                        <Chip avatar={<Avatar>N</Avatar>} variant="outlined" label="Node.js"color="secondary"/>
-                        <Chip avatar={<Avatar>M</Avatar>} variant="outlined" label="MongoDB" color="primary"/>
-                        <Chip avatar={<Avatar>C</Avatar>} variant="outlined" label="CSS" />
-                        <Chip avatar={<Avatar>H</Avatar>} variant="outlined" label="HTML" color="secondary"/>
+                        <Chip avatar={<Avatar src={require('./static/js.png')}/>} variant="outlined" label="JavaScript" color="primary"/>
+                        <Chip avatar={<Avatar src={require('./static/react.png')}/>} variant="outlined" label="React.js" />
+                        <Chip avatar={<Avatar src={require('./static/node.jpg')}/>} variant="outlined" label="Node.js"color="secondary"/>
+                        <Chip avatar={<Avatar src={require('./static/mongo.png')}/>} variant="outlined" label="MongoDB" color="primary"/>
+                        <Chip avatar={<Avatar src={require('./static/css.png')}/>} variant="outlined" label="CSS" />
+                        <Chip avatar={<Avatar src={require('./static/html.png')}/>} variant="outlined" label="HTML" color="secondary"/>
                     </div>
                 </Grid>
                 <Grid item  xs={12}>
@@ -40,12 +40,12 @@ export default function SkillChips() {
                     Novice skills
                 </Typography>
                     <div className={classes.root}> 
-                        <Chip avatar={<Avatar>C</Avatar>} variant="outlined" label="C" color="secondary"/>
-                        <Chip avatar={<Avatar>C</Avatar>} variant="outlined" label="C++"/>
-                        <Chip avatar={<Avatar>J</Avatar>} variant="outlined" label="Java" color="primary"/>
-                        <Chip avatar={<Avatar>P</Avatar>} variant="outlined" label="Python" color="secondary"/>
-                        <Chip avatar={<Avatar>S</Avatar>} variant="outlined" label="Sql" />
-                        <Chip avatar={<Avatar>M</Avatar>} variant="outlined" label="Matlab" color="primary"/>
+                        <Chip avatar={<Avatar src={require('./static/kep.jpg')}/>} variant="outlined" label="C" color="secondary"/>
+                        <Chip avatar={<Avatar src={require('./static/cpp.png')}/>} variant="outlined" label="C++"/>
+                        <Chip avatar={<Avatar src={require('./static/java.png')}/>} variant="outlined" label="Java" color="primary"/>
+                        <Chip avatar={<Avatar src={require('./static/python.png')}/>} variant="outlined" label="Python" color="secondary"/>
+                        <Chip avatar={<Avatar src={require('./static/sql.png')}/>} variant="outlined" label="Sql" />
+                        <Chip avatar={<Avatar src={require('./static/matlab.png')}/>} variant="outlined" label="Matlab" color="primary"/>
                     </div>
                 </Grid>
             </Grid>
