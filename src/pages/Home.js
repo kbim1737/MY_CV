@@ -2,10 +2,7 @@ import React from 'react';
 import Avatar from '../components/MyAvatar';
 import Tabs from '../components/Tabs';
 
-class Home extends React.Component {
-
-
-    render(){
+const Home = () => {
       
         return(
             <div>
@@ -13,7 +10,6 @@ class Home extends React.Component {
             <Tabs></Tabs>
             </div>
         )
-    }
 }
 
 export default Home;
